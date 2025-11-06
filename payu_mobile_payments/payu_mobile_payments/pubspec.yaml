@@ -14,14 +14,17 @@ dependencies:
     git:
       url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
       path: payu_mobile_payments/payu_mobile_payments_android
+      ref: latest-tag
   payu_mobile_payments_ios:
     git:
       url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
       path: payu_mobile_payments/payu_mobile_payments_ios
+      ref: latest-tag
   payu_mobile_payments_platform_interface:
     git:
       url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
       path: payu_mobile_payments/payu_mobile_payments_platform_interface
+      ref: latest-tag
 dev_dependencies:
   build_runner: ^2.4.9
   dependency_validator: ^4.1.0
