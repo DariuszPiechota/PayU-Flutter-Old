@@ -18,7 +18,8 @@ class SecureHttpClient extends IOClient {
 
   static SecurityContext _makeGlobalSecurityContext() {
     SecurityContext context = SecurityContext(withTrustedRoots: false);
-    _setTrustedCertificatesBytes(context, 'packages/payu_api/ssl/entrust.pem');
+    // _setTrustedCertificatesBytes(context, 'packages/payu_api/ssl/entrust.pem');
+    _setTrustedCertificatesBytes(context, 'packages/payu_api/ssl/sectigoR46.pem');
     return context;
   }
 
