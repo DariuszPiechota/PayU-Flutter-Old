@@ -2,3 +2,4 @@ payu_core:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_core
+    ref: latest-tag

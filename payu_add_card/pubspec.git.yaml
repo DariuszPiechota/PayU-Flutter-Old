@@ -2,23 +2,29 @@ payu_api:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_api
+    ref: latest-tag
 payu_core:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_core
+    ref: latest-tag
 payu_state_management:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_state_management
+    ref: latest-tag
 payu_terms_and_conditions:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_terms_and_conditions
+    ref: latest-tag
 payu_translations:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_translations
+    ref: latest-tag
 payu_ui:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_ui
+    ref: latest-tag

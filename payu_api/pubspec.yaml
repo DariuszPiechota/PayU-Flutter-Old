@@ -15,6 +15,7 @@ dependencies:
     git:
       url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
       path: payu_core
+      ref: latest-tag
 dev_dependencies:
   build_runner: ^2.4.9
   dependency_validator: ^4.1.0

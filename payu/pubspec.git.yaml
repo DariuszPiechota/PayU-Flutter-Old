@@ -2,43 +2,54 @@ payu_add_card:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_add_card
+    ref: latest-tag
 payu_api:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_api
+    ref: latest-tag
 payu_core:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_core
+    ref: latest-tag
 payu_interface:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_interface
+    ref: latest-tag
 payu_mobile_payments:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_mobile_payments/payu_mobile_payments
+    ref: latest-tag
 payu_payment_methods:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_payment_methods
+    ref: latest-tag
 payu_terms_and_conditions:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_terms_and_conditions
+    ref: latest-tag
 payu_three_ds:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_three_ds
+    ref: latest-tag
 payu_translations:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_translations
+    ref: latest-tag
 payu_web_payments:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_web_payments
+    ref: latest-tag
 payu_ui:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_ui
+    ref: latest-tag

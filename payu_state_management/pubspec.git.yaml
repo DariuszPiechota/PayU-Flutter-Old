@@ -2,7 +2,9 @@ payu_interface:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_interface
+    ref: latest-tag
 payu_ui:
   git:
     url: https://github.com/DariuszPiechota/PayU-Flutter-Old.git
     path: payu_ui
+    ref: latest-tag
