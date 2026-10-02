@@ -24,5 +24,7 @@ dev_dependencies:
     sdk: flutter
 flutter:
   assets:
-    # - ssl/entrust.pem
+    - ssl/payu-root-ca-01.pem
+    - ssl/digicert-global-root-g2.pem
+    - ssl/digicert-global-root-g3.pem
     - ssl/sectigoR46.pem
